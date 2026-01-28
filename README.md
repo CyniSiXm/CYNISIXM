@@ -3,10 +3,12 @@
 <b><size=7>CYNISIXM!</size></b>
 ---
 
-<div>hello hello! im cynisixm alright and i like to play and draw
-</div>
-<a>i play roblox n shii, tho this is used for pony town.</a>
-19, they/them
-mostly afk or offtab
-
-art here and ata are made by me
+ <div class="p-3 mt-2"
+                 style="background-color:rgb(0,0,0,0.5); border-radius:15px">
+                <div class="pr-2" style="max-height:90px; overflow:auto">
+                <center>
+                    
+                    <p> hihi im cynisixm i like to play and draw
+19, they/them</p></center>
+                    
+                </div></div>
